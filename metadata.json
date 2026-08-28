@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Pulse",
+  "description": "Full-Stack IoT Device Intelligence & Automation Platform with realtime telemetry, digital twins, automation rule canvas, alerts, command console, and embedded ESP32 simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
